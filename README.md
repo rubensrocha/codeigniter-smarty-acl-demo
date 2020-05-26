@@ -6,8 +6,6 @@ Demo application using [SmartyAcl](https://github.com/rubensrocha/codeigniter-sm
 - [SmartyAcl Library](https://github.com/rubensrocha/codeigniter-smarty-acl) 1.0
 - [Codeigniter Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar/) 3
 
-### Preview
-![alt text](https://tinyurl.com/y8zbwals "Preview")
 ### Installation
 1. Download latest released version
 2. Configure your database settings on `application/config/database.php`
